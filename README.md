@@ -1,4 +1,4 @@
-# Myeposi_1
+# MyReposi_1
 this is my first repository used for test
 
 
